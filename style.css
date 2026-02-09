@@ -4,3 +4,9 @@
 .article-name {
     color: purple;
 }
+.title-1, .title-2, .p-1, .p-2 {
+    color: blue;
+}
+.paragraph {
+    background-color: burlywood;
+}
