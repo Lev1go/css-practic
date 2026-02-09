@@ -10,3 +10,18 @@
 .paragraph {
     background-color: burlywood;
 }
+.btn-primary {
+    color: aqua;
+    background-color: blue;
+    border-radius: 10px;
+}
+.btn-secondary {
+    color: purple;
+    background-color: yellow;
+    border-radius: 3px;
+}
+.btn-danger {
+    color: red;
+    background-color: black;
+    border-radius: 5px;
+}
