@@ -25,3 +25,23 @@
     background-color: black;
     border-radius: 5px;
 } */
+ /* :root {
+    --kokos: #4345FD;
+ }
+ p {
+    color: var(--kokos)
+ } */
+:root {
+    --primary-color: #1488ad;
+    --secondary-color: #54622f;
+    --text-color: #69df12;
+}
+h1 {
+    color: var(--primary-color);
+}
+h2 {
+    color: var(--secondary-color);
+}
+p {
+    color: var(--text-color);
+}
