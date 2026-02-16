@@ -55,7 +55,7 @@ p {
     background-color: #ed2349;
     color: #ffffff;
  } */
-  :root {
+  /* :root {
     --color-blue: blue;
     --color-red: red;
     --color-green: green;
@@ -76,4 +76,37 @@ a {
 }
 button {
     background-color: var(--background);
+} */
+.zd-1 {
+    font-family: 'Rubik Mono One', sans-serif;
 }
+.zad-1 {
+    font-family: 'Hurricane', sans-serif;
+}
+.zd-2 {
+    font-family: 'Hurricane', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+.zad-2 {
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+}.zad-2-1 {
+    font-family: 'Prompt', sans-serif;
+    font-size: 20px;
+    line-height: 1.8;
+}
+.quote {
+    font-family: 'Meddon', sans-serif;
+    font-size: 22px;
+    text-align: right;
+}
+ul {
+    font-family: 'Tilt Prism', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: left;
+}
+
